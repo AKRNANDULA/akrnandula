@@ -1,8 +1,9 @@
 # My Peronal Webpage 👋
 
-- 🔭 I’m currently working with DJango to build my webpage from scratch.
+- 🔭 I’m currently working to build my own webpage from scratch.
 
-## My webpage Link
+
+## My current webpage Link
 <center>
 
 ### [https://akrnandula.github.io/akrnandula/](https://akrnandula.github.io/akrnandula/)
